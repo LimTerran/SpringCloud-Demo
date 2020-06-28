@@ -236,3 +236,16 @@ saveRegionCity(@RequestBody RegionCityDto regionCityDto)``
 
 20200426
 1. 完善代码质量[监控体系](https://github.com/Xlinlin/SpringCloud-Demo/blob/master/SpringCloud-Demo-Doc/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%E7%9B%91%E6%8E%A7%E4%BD%93%E7%B3%BB%E6%96%B9%E6%A1%88.pptx)
+
+20200508
+1. SpringCloud Gateway + nacos实现灰度， + ribbon实现全链路版本请求，[详情](https://github.com/Xlinlin/SpringCloud-Gateway-Canary)
+
+20200527
+1. [添加docker-build脚本，执行脚本构建镜像并推送到私服仓库](https://github.com/Xlinlin/SpringCloud-Demo/blob/master/SpringCloud-Docker/docker-build.sh)
+
+20200528
+1. swagger2 创建[api文档](https://github.com/Xlinlin/SpringCloud-Demo/blob/master/SpringCloud-Demo-Doc/swagger%E7%94%9F%E6%88%90html%E6%96%87%E4%BB%B6.pdf)整理
+2. [docker-swarm集群监控文档](https://github.com/Xlinlin/SpringCloud-Demo/tree/master/SpringCloud-Demo-Doc/docker)整理
+
+20200529
+1. 补充swarm集群部署springcloud项目，[详细文档](https://github.com/Xlinlin/SpringCloud-Demo/blob/master/SpringCloud-Demo-Doc/docker/docker-swarm-springcloud.md)
